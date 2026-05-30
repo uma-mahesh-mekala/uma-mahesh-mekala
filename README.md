@@ -22,39 +22,49 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Backend Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript" />
+</p>
 
-### Backend
+### Frontend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Cloud Spanner](https://img.shields.io/badge/Cloud%20Spanner-000?style=for-the-badge&logo=googlecloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-000?style=for-the-badge&logo=googlecloud)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+<p>
+  ☁️ Cloud Spanner • BigQuery
+</p>
 
 ### Cloud & DevOps
 
-![Google Cloud](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,jenkins,githubactions" />
+</p>
 
+### Testing & API Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,postman" />
+</p>
+
+<p>
+  OpenAPI • Swagger • REST APIs • Microservices
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
 ---
 
 ## 📌 Featured Projects
@@ -82,22 +92,6 @@
 - 🏅 Gold Medalist in Bachelor of Technology
 - 💡 Designed solutions that delivered significant business cost savings
 - 🚀 Improved API performance and deployment efficiency in enterprise systems
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uma-mahesh-mekala&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uma-mahesh-mekala&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uma-mahesh-mekala&theme=tokyonight" />
-</p>
 
 ---
 
