@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uma Mahesh Mekala</h1>
 <h3 align="center">Full Stack Developer | Backend Engineer | Cloud Enthusiast</h3>
 
+<i>Now Learning React and Springboot by build a School Management Portal fullstack application</i>
+
 <p align="center">
   <a href="https://github.com/uma-mahesh-mekala">
     <img src="https://komarev.com/ghpvc/?username=uma-mahesh-mekala&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
