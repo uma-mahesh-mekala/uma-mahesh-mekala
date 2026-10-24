@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uma Mahesh Mekala</h1>
 <h3 align="center">Full Stack Developer | Backend Engineer | Cloud Enthusiast</h3>
 
-<i>Now Learning React and Springboot by build a School Management Portal fullstack application</i>
+<i>Now Exploring React+Next.js and NestJs by building fullstack application</i>
 
 <p align="center">
   <a href="https://github.com/uma-mahesh-mekala">
